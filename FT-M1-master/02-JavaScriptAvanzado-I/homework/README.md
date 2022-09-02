@@ -8,11 +8,7 @@ Determiná que será impreso en la consola, sin ejecutar el código.
 > Investiga cuál es la diferencia entre declarar una variable con `var` y directamente asignarle un valor.
 
 ```javascript
-// var a= undef 8
-// var b= undef 10
-// var c= undef 10
-// x = 1 10
-//c = 8 9 10
+
 x = 1;
 var a = 5; 
 var b = 10; 
